@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb8ab28a-9b6e-43c0-90a8-bd1e4f6a458e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1b4e4f9-eb5c-40be-b138-51fe5503d954</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Eric'</defaultValue>
+      <description></description>
+      <id>f1b4e4f9-eb5c-40be-b138-51fe5503d954</id>
+      <masked>false</masked>
+      <name>user_pic</name>
+   </variable>
+</TestCaseEntity>

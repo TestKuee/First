@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/E-learning/Page_Master Elearning  Elearning CMS/div_Data gagal disimpanKode Instansi sudah _ecd059 (1)",
+      "brokenLocator": "``",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[4]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/E-learning/Page_Master Elearning  Elearning CMS/div_Data gagal disimpanKode Instansi sudah _ecd059 (1)_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Elearning/Page_Master Elearning  Elearning CMS/input_select2-search__field",
+      "brokenLocator": "(//input[@type\u003d\u0027search\u0027])[6]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@type \u003d \u0027search\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Elearning/Page_Master Elearning  Elearning CMS/input_select2-search__field_customAttributes.png"
+    }
+  ]
+}

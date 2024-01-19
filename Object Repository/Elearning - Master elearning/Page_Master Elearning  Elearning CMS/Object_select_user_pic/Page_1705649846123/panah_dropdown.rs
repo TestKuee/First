@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>panah_dropdown</name>
+   <tag></tag>
+   <elementGuidId>cb9555c6-af86-4d63-8761-4aa34e96e954</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;formAdd&quot;]/div[2]/div[3]/span/span[1]/span/span[@class='select2-selection__arrow']/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>80a9bbb4-9c32-42e6-b92a-7bf12cb34703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1705649846928</value>
+      <webElementGuid>d0756447-ef73-4ca1-96a2-c4363fc7de4c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
